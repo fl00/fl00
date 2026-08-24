@@ -61,4 +61,4 @@ To push my architectural philosophy to its limits, I maintain a side project exp
 
 ### Let's Connect
 
-- [LinkedIn]([lien-vers-votre-linkedin](https://www.linkedin.com/in/florianlamboley/))
+- [LinkedIn](https://www.linkedin.com/in/florianlamboley/)
